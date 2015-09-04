@@ -22,6 +22,11 @@ For Sublime Text 2 (Python 2.6):
 * [Linux x32](https://github.com/emmetio/pyv8-binaries/raw/master/pyv8-linux32.zip)
 * [Linux x64](https://github.com/emmetio/pyv8-binaries/raw/master/pyv8-linux64.zip)
 
+
+For Sublime Text 2 (Python 2.7):
+* [Windows x32](PyV8-1.0-preview-r443.win32-py2.7.zip)
+* [Windows x64](PyV8-1.0-preview-r446.win-amd64-py2.7.zip)
+
 For Sublime Text 3 (Python 3.3):
 
 * [Windows x32](https://github.com/emmetio/pyv8-binaries/raw/master/pyv8-win32-p3.zip)
